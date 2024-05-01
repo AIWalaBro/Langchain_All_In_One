@@ -14,10 +14,12 @@ os.environ["LANGCHAIN_API_KEY"]=os.getenv("LANGCHAIN_API_KEY")
 
 
 # PromptTemplate
-prompt = ChatPromptTemplate.from_messages([
-    ('syestem','you are helpful assistant. Please respond to this message')
-    ('user', 'Question:{question}')
-])
+prompt = ChatPromptTemplate.from_messages(
+    [
+        ("system","you are helpful assistant.Please respond to this message"),
+        ("user", "Question:{question}")
+    ]
+)
 
 # Streamlit framework
 
