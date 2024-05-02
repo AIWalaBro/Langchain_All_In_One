@@ -5,6 +5,11 @@
   <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/openai_que_ans.png" width=100% height=100%>
 </p>
 
+# Ollama- Llama3 
+<p align="center">
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/ollama-llama3.png" width=100% height=100%>
+</p>
+
 
 
 # Step to run this project
