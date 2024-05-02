@@ -7,7 +7,7 @@
 
 # Ollama- Llama3 
 <p align="center">
-  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/ollama-llama3.png" width=100% height=100%>
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/381fb25e91f32e747b324459a68532acd11f184d/flow_Charts/ollama-llama3.png" width=100% height=100%>
 </p>
 
 
