@@ -32,5 +32,25 @@
 - conda activate venv_langchain_all_in_one 
 ```
 
+#### step3: Install Requirement Package
+```bash
+- pip install -r requirements.txt
+```
+
+### step4: Setup your environment variables and the API keys
+```bash
+- e.g: OPENAI_API_KEY = "abcd***************z"
+```
+
+#### step4: Run file 
+```bash
+- streamlit run app.py
+- streamlit run ollama.py
+```
+
+- NOTE: always remember while runnning ollama in local you have to run it first, by command (ollama run "model_name")
+then you will run streamlit run ollama.py otherwise it will throw an Connection Error.
+
+
 
 
