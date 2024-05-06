@@ -48,8 +48,8 @@
 - streamlit run ollama.py
 ```
 
-- NOTE: always remember while runnning ollama in local you have to run it first, by command (ollama run "model_name")
-then you will run streamlit run ollama.py otherwise it will throw an Connection Error.
+- NOTE: always remember before running ollama.py in VS Code IDE. you have to run it first locally in CMD, by command (ollama run "model_name").
+- then you will run streamlit run ollama.py in terminal otherwise it will throw an Connection Error at front end of streamlit.
 
 
 
