@@ -42,7 +42,7 @@
 - e.g: OPENAI_API_KEY = "abcd***************z"
 ```
 
-#### step4: Run file 
+#### step5: Run file 
 ```bash
 - streamlit run app.py
 - streamlit run ollama.py
