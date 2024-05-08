@@ -17,6 +17,14 @@
 
 
 
+# Retriever chain
+<p align="center">
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/retrieverchain.png" width=100% height=100%>
+</p>
+
+
+
+
 # Step to run this project
 
 ### How to run locally  
