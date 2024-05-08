@@ -19,7 +19,7 @@
 
 # Retriever chain
 <p align="center">
-  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/retrieverchain.png" width=100% height=100%>
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/05ae60e2aacc3dad24bb7d570ac63876e09400e0/flow_Charts/retrieverchain.png" width=100% height=100%>
 </p>
 
 
