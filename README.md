@@ -28,6 +28,11 @@
   <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/c3ed668c7081eddc71d0e298550fe157f1368a31/flow_Charts/Multi_retrieverchain.png" width=75% height=75%>
 </p>
 
+<p align="center">
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/multi_retrieverchain_1.png" width=75% height=75%>
+</p>
+
+
 
 
 
