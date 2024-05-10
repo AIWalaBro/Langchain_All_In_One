@@ -62,7 +62,8 @@ if prompt:
     start = time.process_time()
     response = retriever_chain.invoke({"input": prompt})
     # print("Response time: " + time.process_time() - start)
-    print("Response time: " + str(time.process_time() - start))
+    # print("Response time: " + str(time.process_time() - start))
+    print(f"Response time: {time.process_time() - start}")
     st.write(response['answer'])
     
     
