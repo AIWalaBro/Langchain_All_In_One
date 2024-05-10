@@ -25,7 +25,7 @@
 
 # Multi-Search Retriever chain
 <p align="center">
-  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/multi_images.png" width=75% height=50%>
+  <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/multi_images.png" width=50% height=50%>
 </p>
 
 <p align="center">
