@@ -25,11 +25,12 @@
 </p>
 
 
-## Multi-Search Retriever chain
+## Multi-Search Retriever chain - A
 <p align="center">
   <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/multi_images.png" width=50% height=50%>
 </p>
 
+## Multi-Search Retriever chain - B
 <p align="center">
   <img src="https://github.com/AIWalaBro/Langchain_All_In_One/blob/main/flow_Charts/multi_retrieverchain_1.png" width=100% height=100%>
 </p>
