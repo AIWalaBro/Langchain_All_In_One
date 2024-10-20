@@ -1,6 +1,6 @@
 # Langchain_All_In_One
 
-# Architecture:
+## Architecture:
 
 ## Openai question answering project workflow
 <p align="center">
